@@ -1,3 +1,18 @@
-# This message will be shown when a player tries to execute a blocked command.
-# You can use color codes with '&' (e.g., &c for red).
-blockMsg: "&cYou are not allowed to use this command."
+blockMsg: "<red>You are not allowed to use this command"
+disabled-commands:
+  - pl
+  - bukkit:pl
+  - plugins
+  - bukkit:plugins
+  - ver
+  - bukkit:ver
+  - version
+  - bukkit:version
+  - "?"
+  - bukkit:?
+  - help
+  - bukkit:help
+  - about
+  - bukkit:about
+  - icanhasbukkit
+  - bukkit:icanhasbukkit

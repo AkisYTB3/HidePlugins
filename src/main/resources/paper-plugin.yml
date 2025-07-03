@@ -1,6 +1,6 @@
 name: HidePlugins
-version: '1.0-1.21'
-main: org.twipnetwork.hidePlugins.HidePlugins
-api-version: '1.21'
-authors: [ Akis ]
+version: '${version}'
+main: org.notionsmp.hidePlugins.HidePlugins
+api-version: '1.19'
+author: "Akis (discord: yeahakis)"
 description: Hides plugins from players
